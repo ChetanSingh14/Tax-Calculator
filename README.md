@@ -22,4 +22,4 @@ styles.css: Contains the CSS styles for the application.
 script.js: Contains the JavaScript code for the functionality of the application.
 
 #License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for detail.
