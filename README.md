@@ -1,4 +1,4 @@
-#Tax Calculator
+Tax Calculator
 This is a simple tax calculator web application built with HTML, CSS, and JavaScript. It allows users to calculate their tax based on their income, extra income, age group, and applicable deductions.
 
 #Features
